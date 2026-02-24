@@ -22,6 +22,10 @@ lib-cov
 coverage
 *.lcov
 
+
+creds
+creds.pubs
+
 # nyc test coverage
 .nyc_output
 
